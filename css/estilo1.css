@@ -1,0 +1,27 @@
+
+    body { background: #f8f9fa; color: #232946; font-family: 'Poppins', Arial, sans-serif; }
+    .navbar { background: #232946; }
+    .navbar-brand { color: #e9b000 !important; font-weight: bold; font-size: 1.7rem; letter-spacing: 2px;}
+    .nav-link { color: #fff !important; margin-right: 1.1rem; font-size: 1.1rem;}
+    .nav-link.active, .nav-link:hover { color: #e9b000 !important; }
+    .hero { background: linear-gradient(115deg, #232946 80%, #e9b000 120%); color: #fff; border-radius: 0 0 2.3rem 2.3rem; padding: 4rem 0 3rem 0;}
+    .hero h1 { font-weight: bold; font-size: 2.6rem; }
+    .hero img { width: 130px; height: 130px; border-radius: 50%; border: 5px solid #e9b00050; object-fit: cover; margin-bottom: 1.5rem;}
+    .section-title { color: #e9b000; font-weight: bold; margin-top: 2.3rem; font-size: 2rem;}
+    .progress { height: 1.2rem; background: #e5e7eb;}
+    .progress-bar { font-weight: 600; }
+    .card { border-radius: 1.2rem; box-shadow: 0 4px 18px rgba(35,41,70,0.08); border: none;}
+    .card-title { color: #232946; font-weight: bold;}
+    .card-text { color: #4b5563;}
+    .timeline { border-left: 3px solid #e9b00033; margin-left: 1.2rem; }
+    .timeline-item { margin-bottom: 2.3rem; position: relative; }
+    .timeline-item::before { content: ''; position: absolute; left: -2.2rem; top: 0.1rem; width: 1.2rem; height: 1.2rem; background: #e9b000; border-radius: 50%; border: 3px solid #fff; }
+    .timeline-date { font-size: 0.98rem; color: #888; }
+    .footer { margin-top: 2.5rem; background: #232946; color: #bbb; text-align: center; padding: 1.7rem 0 1rem 0; border-radius: 2.2rem 2.2rem 0 0;}
+    .social-icons a { color: #e9b000; font-size: 1.6rem; margin: 0 9px; transition: color .22s;}
+    .social-icons a:hover { color: #ffd966; }
+    @media (max-width: 767px) {
+      .hero { padding: 2rem 0; text-align: center;}
+      .main-content { padding: 1rem;}
+      .section-title { font-size: 1.35rem;}
+    }
