@@ -67,17 +67,17 @@ Este trabajo tiene como objetivo crear una pagina web ficticia  utilizando una p
   Formulario visual para contacto y enlaces a correo, GitHub y LinkedIn.
 
 ---
-
 ## Capturas de Pantalla
 
 ### Vista principal  
-![Vista principal](img/captura_escritorio.png)
+![Vista principal](./Captura%20de%20pantalla%202025-07-07%20081444.png)
 
 ### Sección Proyectos  
-![Proyectos](img/captura_proyectos.png)
+![Sección Proyectos](./Captura%20de%20pantalla%202025-07-07%20081520.png)
 
 ### Formulario de Contacto  
-![Contacto](img/captura_contacto.png)
+![Formulario de Contacto](./Captura%20de%20pantalla%202025-07-07%20081543.png)
+
 
 *(Puedes reemplazar estos nombres de archivo por los de tus propias capturas.)*
 
