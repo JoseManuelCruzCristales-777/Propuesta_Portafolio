@@ -223,7 +223,7 @@ El portafolio está publicado en **GitHub Pages**:
 </section>
 
 <!-- PROYECTOS -->
-<!-- ...el mismo head y navbar que antes... -->
+
 
 <!-- PROYECTOS -->
 <section class="container main-content" id="proyectos">
