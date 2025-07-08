@@ -105,7 +105,7 @@ El portafolio está publicado en **GitHub Pages**:
 </head>
 <body>
 
-<!-- NAVBAR -->
+
 <nav class="navbar navbar-expand-lg mb-0">
   <div class="container">
     <a class="navbar-brand" href="#">JMCC</a>
@@ -124,7 +124,6 @@ El portafolio está publicado en **GitHub Pages**:
   </div>
 </nav>
 
-<!-- HERO -->
 <section class="hero" id="inicio">
   <div class="container text-center">
     <img src="img/perfil.jpg" alt="Foto Perfil">
@@ -138,8 +137,6 @@ El portafolio está publicado en **GitHub Pages**:
   </div>
 </section>
 
-<!-- TRAYECTORIA -->
-<!-- TRAYECTORIA ACADÉMICA Y PROFESIONAL -->
 <section class="container main-content" id="trayectoria">
   <div class="section-title">Trayectoria Académica y Profesional</div>
   <div class="row">
